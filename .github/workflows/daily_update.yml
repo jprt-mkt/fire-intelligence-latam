@@ -1,20 +1,36 @@
 name: Daily Update
+
 on:
- schedule:
-  - cron: '0 6 * * *'
- workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
- update:
-  runs-on: ubuntu-latest
-  steps:
-   - uses: actions/checkout@v4
-   - uses: actions/setup-python@v5
-     with: {python-version: '3.11'}
-   - run: pip install feedparser
-   - run: python update_data.py
-   - run: |
-      git config user.name "fireintel-bot"
-      git config user.email "bot@fireintel.local"
-      git add data.json
-      git commit -m "auto update" || echo "no changes"
-      git push
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run update script
+        run: python update_data.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "fireintel-bot"
+          git config user.email "bot@fireintel.local"
+          git add data.json
+          git commit -m "Daily automatic update" || echo "No changes"
+          git push
