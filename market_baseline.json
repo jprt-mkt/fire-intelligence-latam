@@ -1,0 +1,33 @@
+{
+  "Brasil": {
+    "market_size_usd": 1200000000,
+    "segments": {
+      "detecção": 0.30,
+      "supressão": 0.35,
+      "extintores": 0.20,
+      "proteção_passiva": 0.15
+    },
+    "players": {
+      "Kidde": 0.28,
+      "Siemens": 0.18,
+      "Johnson Controls": 0.16,
+      "Honeywell": 0.14,
+      "Outros": 0.24
+    }
+  },
+  "Mexico": {
+    "market_size_usd": 650000000,
+    "segments": {
+      "detecção": 0.28,
+      "supressão": 0.36,
+      "extintores": 0.18,
+      "proteção_passiva": 0.18
+    },
+    "players": {
+      "Kidde": 0.22,
+      "Siemens": 0.20,
+      "Johnson Controls": 0.18,
+      "Outros": 0.40
+    }
+  }
+}
