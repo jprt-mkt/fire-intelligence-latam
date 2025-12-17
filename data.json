@@ -1,15 +1,36 @@
 {
-  "data_ref": "BOOTSTRAP",
-  "sumario_executivo": {
-    "headline_dia": "Plataforma inicializada – aguardando atualização automática",
-    "contexto": "Este conteúdo será atualizado automaticamente pela rotina diária.",
-    "acoes_recomendadas": [
-      "Validar acesso ao portal",
-      "Aguardar primeira atualização automática"
-    ]
-  },
-  "score_paises": {},
+  "data_ref": "2025-12-17",
   "regulacao": [],
-  "lancamentos_tecnologia": [],
-  "grandes_projetos": []
+  "lancamentos_tecnologia": [
+    {
+      "titulo": "Two CT Nursing Home Residents Suffer Suspected Smoke Inhalation in Fire",
+      "pais": "Resto LATAM",
+      "link": "https://www.fireengineering.com/firefighting/two-ct-nursing-home-residents-suffer-suspected-smoke-inhalation-in-fire/"
+    },
+    {
+      "titulo": "OH Fire Chief Cleared After Hearing",
+      "pais": "Resto LATAM",
+      "link": "https://www.fireengineering.com/firefighting/oh-fire-chief-cleared-after-hearing/"
+    },
+    {
+      "titulo": "WA Suffers Record Flooding Damage; More Coming",
+      "pais": "Resto LATAM",
+      "link": "https://www.fireengineering.com/technical-rescue/water-rescue/wa-suffers-record-flooding-damage-more-coming/"
+    }
+  ],
+  "grandes_projetos": [],
+  "score_paises": {
+    "Resto LATAM": {
+      "risco": 0,
+      "oportunidade": 3
+    }
+  },
+  "sumario_executivo": {
+    "headline_dia": "Resumo automático diário do mercado de incêndio LATAM",
+    "contexto": "Resumo gerado automaticamente a partir dos eventos coletados.",
+    "acoes_recomendadas": [
+      "Priorizar países com maior oportunidade",
+      "Rever riscos regulatórios"
+    ]
+  }
 }
