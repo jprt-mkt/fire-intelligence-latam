@@ -3,6 +3,11 @@
   "regulacao": [],
   "lancamentos_tecnologia": [
     {
+      "titulo": "MO Firefighter With Six DWIs Gets Five Years in Prison",
+      "pais": "Resto LATAM",
+      "link": "https://www.fireengineering.com/news/mo-firefighter-with-six-dwis-gets-five-years-in-prison/"
+    },
+    {
       "titulo": "Two CT Nursing Home Residents Suffer Suspected Smoke Inhalation in Fire",
       "pais": "Resto LATAM",
       "link": "https://www.fireengineering.com/firefighting/two-ct-nursing-home-residents-suffer-suspected-smoke-inhalation-in-fire/"
@@ -11,11 +16,6 @@
       "titulo": "OH Fire Chief Cleared After Hearing",
       "pais": "Resto LATAM",
       "link": "https://www.fireengineering.com/firefighting/oh-fire-chief-cleared-after-hearing/"
-    },
-    {
-      "titulo": "WA Suffers Record Flooding Damage; More Coming",
-      "pais": "Resto LATAM",
-      "link": "https://www.fireengineering.com/technical-rescue/water-rescue/wa-suffers-record-flooding-damage-more-coming/"
     }
   ],
   "grandes_projetos": [],
