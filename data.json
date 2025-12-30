@@ -1,0 +1,91 @@
+{
+  "data_ref": "2025-12-30",
+  "regulacao": [],
+  "lancamentos_tecnologia": [
+    {
+      "titulo": "Firefighters Put Out Structure Fire in CT After Finding Frozen Hydrant",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/firefighters-put-out-structure-fire-in-ct-after-finding-frozen-hydrant/"
+    },
+    {
+      "titulo": "Early Morning Fire at TX Apartment Sends Two to Hospital, Damages More Than 30 Units",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/early-morning-fire-at-tx-apartment-sends-two-to-hospital-damages-more-than-30-units/"
+    },
+    {
+      "titulo": "Fire at Indonesian Retirement Home Kills 16 Residents",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-safety/fire-at-indonesian-retirement-home-kills-16-residents/"
+    },
+    {
+      "titulo": "View to a Drill: Checking the Rear!",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighter-training/firefighter-drills/view-to-a-drill-checking-the-rear/"
+    },
+    {
+      "titulo": "Midair Helicopter Crash in NJ Leaves One Dead, Another Injured",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/technical-rescue/aircraft-fire-rescue/midair-helicopter-crash-in-nj-leaves-one-dead-another-injured/"
+    }
+  ],
+  "grandes_projetos": [],
+  "score_paises": {
+    "Resto da América Latina": {
+      "risco": 0,
+      "oportunidade": 5,
+      "projects": 0,
+      "market_size_usd": 360000000,
+      "estimated_kidde_revenue_usd": 43200000
+    },
+    "Brasil": {
+      "risco": 0,
+      "oportunidade": 0,
+      "projects": 0,
+      "market_size_usd": 1200000000,
+      "estimated_kidde_revenue_usd": 336000000
+    },
+    "Mexico": {
+      "risco": 0,
+      "oportunidade": 0,
+      "projects": 0,
+      "market_size_usd": 650000000,
+      "estimated_kidde_revenue_usd": 143000000
+    },
+    "Colombia": {
+      "risco": 0,
+      "oportunidade": 0,
+      "projects": 0,
+      "market_size_usd": 220000000,
+      "estimated_kidde_revenue_usd": 44000000
+    },
+    "Chile": {
+      "risco": 0,
+      "oportunidade": 0,
+      "projects": 0,
+      "market_size_usd": 180000000,
+      "estimated_kidde_revenue_usd": 32400000
+    },
+    "Argentina": {
+      "risco": 0,
+      "oportunidade": 0,
+      "projects": 0,
+      "market_size_usd": 240000000,
+      "estimated_kidde_revenue_usd": 40800000
+    },
+    "Peru": {
+      "risco": 0,
+      "oportunidade": 0,
+      "projects": 0,
+      "market_size_usd": 140000000,
+      "estimated_kidde_revenue_usd": 21000000
+    }
+  },
+  "sumario_executivo": {
+    "headline_dia": "Resumo automático com base em dados públicos",
+    "contexto": "Baseline público",
+    "acoes_recomendadas": [
+      "Priorizar países com maior pipeline",
+      "Defender share onde Kidde é líder"
+    ]
+  }
+}
