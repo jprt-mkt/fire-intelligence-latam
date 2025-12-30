@@ -1,0 +1,102 @@
+{
+  "Brasil": {
+    "market_size_usd": 1200000000,
+    "segments": {
+      "detecção": 0.3,
+      "supressão": 0.35,
+      "extintores": 0.2,
+      "proteção_passiva": 0.15
+    },
+    "players": {
+      "Kidde": 0.28,
+      "Siemens": 0.18,
+      "Johnson Controls": 0.16,
+      "Honeywell": 0.14,
+      "Outros": 0.24
+    }
+  },
+  "Mexico": {
+    "market_size_usd": 650000000,
+    "segments": {
+      "detecção": 0.28,
+      "supressão": 0.36,
+      "extintores": 0.18,
+      "proteção_passiva": 0.18
+    },
+    "players": {
+      "Kidde": 0.22,
+      "Siemens": 0.2,
+      "Johnson Controls": 0.18,
+      "Outros": 0.4
+    }
+  },
+  "Colombia": {
+    "market_size_usd": 220000000,
+    "segments": {
+      "detecção": 0.3,
+      "supressão": 0.34,
+      "extintores": 0.2,
+      "proteção_passiva": 0.16
+    },
+    "players": {
+      "Kidde": 0.2,
+      "Siemens": 0.18,
+      "Outros": 0.62
+    }
+  },
+  "Chile": {
+    "market_size_usd": 180000000,
+    "segments": {
+      "detecção": 0.32,
+      "supressão": 0.34,
+      "extintores": 0.18,
+      "proteção_passiva": 0.16
+    },
+    "players": {
+      "Kidde": 0.18,
+      "Siemens": 0.16,
+      "Outros": 0.66
+    }
+  },
+  "Argentina": {
+    "market_size_usd": 240000000,
+    "segments": {
+      "detecção": 0.29,
+      "supressão": 0.33,
+      "extintores": 0.2,
+      "proteção_passiva": 0.18
+    },
+    "players": {
+      "Kidde": 0.17,
+      "Siemens": 0.15,
+      "Outros": 0.68
+    }
+  },
+  "Peru": {
+    "market_size_usd": 140000000,
+    "segments": {
+      "detecção": 0.27,
+      "supressão": 0.35,
+      "extintores": 0.2,
+      "proteção_passiva": 0.18
+    },
+    "players": {
+      "Kidde": 0.15,
+      "Siemens": 0.12,
+      "Outros": 0.73
+    }
+  },
+  "Resto da América Latina": {
+    "market_size_usd": 360000000,
+    "segments": {
+      "detecção": 0.28,
+      "supressão": 0.34,
+      "extintores": 0.2,
+      "proteção_passiva": 0.18
+    },
+    "players": {
+      "Kidde": 0.12,
+      "Outros": 0.88
+    }
+  }
+}

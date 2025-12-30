@@ -1,0 +1,1 @@
+fetch('data.json').then(r=>r.json()).then(d=>{document.getElementById('content').innerText=d.sumario_executivo.headline_dia})
