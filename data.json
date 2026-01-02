@@ -1,7 +1,22 @@
 {
-  "data_ref": "2026-01-01",
+  "data_ref": "2026-01-02",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "One Dead, at Least Six Seriously Hurt in Five-Alarm NH Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/one-dead-at-least-six-seriously-hurt-in-five-alarm-nh-fire/"
+    },
+    {
+      "titulo": "About 40 Dead, 115 Injured in Fire at Swiss Alpine Resort Bar",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-safety/fire-at-swiss-alpine-resort-bar-dozens-dead/"
+    },
+    {
+      "titulo": "One Critically Injured After Fire Engulfs MT Lumbermill",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/one-critically-injured-after-fire-engulfs-mt-lumbermill/"
+    },
     {
       "titulo": "16 Lifesaving Actions",
       "pais": "Resto da América Latina",
@@ -11,21 +26,6 @@
       "titulo": "CA Firefighter Dies After Medical Emergency at Structure Fire",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/structural-firefighting/ca-firefighter-dies-after-medical-emergency-at-structure-fire/"
-    },
-    {
-      "titulo": "One Killed in WA Apartment Fire; 20 Displaced",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/one-killed-in-wa-apartment-fire-20-displaced/"
-    },
-    {
-      "titulo": "House Fire Claims Life of OH Woman",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/house-fire-claims-life-of-oh-woman/"
-    },
-    {
-      "titulo": "Hong Kong Rings in 2026 Without Fireworks in Wake of Devastating Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/fire-safety/hong-kong-rings-in-2026-without-fireworks-in-wake-of-devastating-fire/"
     }
   ],
   "grandes_projetos": [],
