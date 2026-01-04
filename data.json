@@ -1,7 +1,17 @@
 {
-  "data_ref": "2026-01-03",
+  "data_ref": "2026-01-04",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Firefighters Battle Five-Alarm Fire at CO Apartment Complex Under Construction",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/firefighters-battle-five-alarm-fire-at-co-apartment-complex-under-construction/"
+    },
+    {
+      "titulo": "Three Firefighters Injured in Massive House Fire in NY",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/three-firefighters-injured-in-massive-house-fire-in-ny/"
+    },
     {
       "titulo": "Common Valor: True Stories from America’s Bravest: Lessons Learned",
       "pais": "Resto da América Latina",
@@ -16,16 +26,6 @@
       "titulo": "WA Mobile Home Park Fire Displaces Multiple Families",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/wa-mobile-home-park-fire-displaces-multiple-families/"
-    },
-    {
-      "titulo": "Six-Alarm Fire Ravages NJ Warehouse",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/six-alarm-fire-ravages-nj-warehouse/"
-    },
-    {
-      "titulo": "Exposure Risk Reduction, Bullying, and Harassment",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/features/exposure-risk-reduction-bullying-and-harassment/"
     }
   ],
   "grandes_projetos": [],
