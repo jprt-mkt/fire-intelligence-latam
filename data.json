@@ -1,31 +1,31 @@
 {
-  "data_ref": "2026-01-04",
+  "data_ref": "2026-01-05",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "In Their Words: Survivors, Others Discuss Fatal Swiss Alpine Bar Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-safety/fire-prevention/in-their-words-survivors-others-discuss-fatal-swiss-alpine-bar-fire/"
+    },
+    {
+      "titulo": "Firefighters Rescue Three Pets from HI Apartment Building Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/firefighters-rescue-three-pets-from-hi-apartment-building-fire/"
+    },
+    {
+      "titulo": "Multiple CA Businesses Razed in Wake of Wind-Whipped Destructive Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/multiple-ca-businesses-razed-in-wake-of-wind-whipped-destructive-fire/"
+    },
+    {
+      "titulo": "Leveraging Data for Community Risk Reduction with NERIS",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-safety/fire-prevention/leveraging-data-for-community-risk-reduction-with-neris/"
+    },
     {
       "titulo": "Firefighters Battle Five-Alarm Fire at CO Apartment Complex Under Construction",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/firefighters-battle-five-alarm-fire-at-co-apartment-complex-under-construction/"
-    },
-    {
-      "titulo": "Three Firefighters Injured in Massive House Fire in NY",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/three-firefighters-injured-in-massive-house-fire-in-ny/"
-    },
-    {
-      "titulo": "Common Valor: True Stories from America’s Bravest: Lessons Learned",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/features/common-valor-true-stories-from-americas-bravest-lessons-learned/"
-    },
-    {
-      "titulo": "House Fire in TX Claimed the Life of Woman, Three Dogs",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/house-fire-in-tx-claimed-the-life-of-woman-three-dogs/"
-    },
-    {
-      "titulo": "WA Mobile Home Park Fire Displaces Multiple Families",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/wa-mobile-home-park-fire-displaces-multiple-families/"
     }
   ],
   "grandes_projetos": [],
