@@ -1,7 +1,17 @@
 {
-  "data_ref": "2026-01-11",
+  "data_ref": "2026-01-12",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Two Dead in MN House Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/two-dead-in-mn-house-fire/"
+    },
+    {
+      "titulo": "Suspicious Fire Rips Through NJ Apartment Complex’s Leasing Building",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/suspicious-fire-rips-through-nj-apartment-complexs-leasing-building/"
+    },
     {
       "titulo": "Wind-Spread Fire Burns Through CA Home, Displaces Five People",
       "pais": "Resto da América Latina",
@@ -16,16 +26,6 @@
       "titulo": "Step Up Your Teamwork",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/features/step-up-your-teamwork/"
-    },
-    {
-      "titulo": "Woman Dies in MA House Fire After Alarm Mistaken as False",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/woman-dies-in-ma-house-fire-after-alarm-mistaken-as-false/"
-    },
-    {
-      "titulo": "The Unwritten Responsibility: Training for Search",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighter-training/the-unwritten-responsibility-training-for-search/"
     }
   ],
   "grandes_projetos": [],
