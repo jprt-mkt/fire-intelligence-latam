@@ -1,7 +1,22 @@
 {
-  "data_ref": "2026-01-17",
+  "data_ref": "2026-01-18",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Firefighters Among at Least Nine Injured in Queens (NY) Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/firefighters-among-at-least-nine-injured-in-queens-ny-fire/"
+    },
+    {
+      "titulo": "One Dead in NY House Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/one-dead-in-ny-house-fire/"
+    },
+    {
+      "titulo": "VA Man Jumps from Second Story Window to Escape Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/va-man-jumps-from-second-story-window-to-escape-fire/"
+    },
     {
       "titulo": "NIOSH: TX Carport Collapse that Burned Firefighter Highlights Need for Adequate Distance, Size-Up",
       "pais": "Resto da América Latina",
@@ -11,21 +26,6 @@
       "titulo": "CT Firefighter Killed when Pinned by Entangled Hose and Struck by 35-Pound Valve",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/ct-firefighter-killed-when-pinned-by-entangled-hose-struck-by-35-pound-valve/"
-    },
-    {
-      "titulo": "L.A. Firefighter Union Launches Sales Tax Initiative to Fund New Stations and More",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/l-a-firefighter-union-launches-sales-tax-initiative-to-fund-new-stations-and-more/"
-    },
-    {
-      "titulo": "Explosion Damages Homes and Injures at Least Four in the Netherlands",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/explosion-damages-homes-and-injures-at-least-four-in-the-netherlands/"
-    },
-    {
-      "titulo": "Man Pulls out Rifle, Assaults Dallas Firefighter During Call to Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/man-pulls-out-rifle-assaults-dallas-firefighter-during-call-to-fire/"
     }
   ],
   "grandes_projetos": [],
