@@ -1,31 +1,31 @@
 {
-  "data_ref": "2026-01-18",
+  "data_ref": "2026-01-19",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Death Toll Rises to Six in Fire at Shopping Plaza in Pakistan",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-safety/death-toll-rises-to-six-in-fire-at-shopping-plaza-in-pakistan/"
+    },
+    {
+      "titulo": "87-Year-Old Woman Injured in IA Fire Dies from Her Injuries",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/87-year-old-woman-injured-in-ia-fire-dies-from-her-injuries/"
+    },
+    {
+      "titulo": "Infant Dies After MD Fire; Cause Under Investigation",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/infant-dies-after-md-fire-cause-under-investigation/"
+    },
     {
       "titulo": "Firefighters Among at Least Nine Injured in Queens (NY) Fire",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/firefighters-among-at-least-nine-injured-in-queens-ny-fire/"
     },
     {
-      "titulo": "One Dead in NY House Fire",
+      "titulo": "Evolving Firefighter Culture in Modern Fire Departments",
       "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/one-dead-in-ny-house-fire/"
-    },
-    {
-      "titulo": "VA Man Jumps from Second Story Window to Escape Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/va-man-jumps-from-second-story-window-to-escape-fire/"
-    },
-    {
-      "titulo": "NIOSH: TX Carport Collapse that Burned Firefighter Highlights Need for Adequate Distance, Size-Up",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/structural-firefighting/niosh-tx-carport-collapse-that-burned-firefighter-highlights-need-for-adequate-distance-size-up/"
-    },
-    {
-      "titulo": "CT Firefighter Killed when Pinned by Entangled Hose and Struck by 35-Pound Valve",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/ct-firefighter-killed-when-pinned-by-entangled-hose-struck-by-35-pound-valve/"
+      "link": "https://www.fireengineering.com/firefighting/evolving-firefighter-culture-in-modern-fire-departments/"
     }
   ],
   "grandes_projetos": [],
