@@ -1,31 +1,31 @@
 {
-  "data_ref": "2026-01-19",
+  "data_ref": "2026-01-20",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Homeless Warming Fire Ignites OR Restaurant, Firefighters Say",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/homeless-warming-fire-ignites-or-restaurant-firefighters-say/"
+    },
+    {
+      "titulo": "Three Displaced After ‘Suspicious’ MI House Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/3-displaced-after-suspicious-mi-house-fire/"
+    },
+    {
+      "titulo": "High-Speed Train Collision in Spain Leaves at Least 39 Dead",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/technical-rescue/high-speed-train-collision-in-spain-leaves-at-least-39-dead/"
+    },
+    {
+      "titulo": "Are You Studying Film? The Importance of Knowing Your Opponent",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighter-training/are-you-studying-film-the-importance-of-knowing-your-opponent/"
+    },
     {
       "titulo": "Death Toll Rises to Six in Fire at Shopping Plaza in Pakistan",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/fire-safety/death-toll-rises-to-six-in-fire-at-shopping-plaza-in-pakistan/"
-    },
-    {
-      "titulo": "87-Year-Old Woman Injured in IA Fire Dies from Her Injuries",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/87-year-old-woman-injured-in-ia-fire-dies-from-her-injuries/"
-    },
-    {
-      "titulo": "Infant Dies After MD Fire; Cause Under Investigation",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/infant-dies-after-md-fire-cause-under-investigation/"
-    },
-    {
-      "titulo": "Firefighters Among at Least Nine Injured in Queens (NY) Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/firefighters-among-at-least-nine-injured-in-queens-ny-fire/"
-    },
-    {
-      "titulo": "Evolving Firefighter Culture in Modern Fire Departments",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/evolving-firefighter-culture-in-modern-fire-departments/"
     }
   ],
   "grandes_projetos": [],
