@@ -1,7 +1,22 @@
 {
-  "data_ref": "2026-01-24",
+  "data_ref": "2026-01-25",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "CT Residents Displaced, Pets Unaccounted for After House Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/ct-residents-displaced-pets-unaccounted-for-after-house-fire/"
+    },
+    {
+      "titulo": "NE Firefighter Injured in Early Morning Duplex Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/ne-firefighter-injured-in-early-morning-duplex-fire/"
+    },
+    {
+      "titulo": "FDNY Responds to Fatal Explosion, Fire in High-Rise Building",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/fdny-responds-to-fatal-explosion-fire-in-high-rise-building/"
+    },
     {
       "titulo": "Man Killed in VA House Fire",
       "pais": "Resto da América Latina",
@@ -11,21 +26,6 @@
       "titulo": "Federal Investigators Comb Scene After ‘Devastating’ Fire Guts KY Downtown",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/federal-investigators-comb-scene-after-devastating-fire-guts-ky-downtown/"
-    },
-    {
-      "titulo": "MA Firefighter Hospitalized After Encountering ‘Hoarding Conditions’ at House Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/ma-firefighter-hospitalized-after-encountering-hoarding-conditions-at-house-fire/"
-    },
-    {
-      "titulo": "Massive Fire Destroys IL Church",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/massive-fire-destroys-il-church/"
-    },
-    {
-      "titulo": "Experience Is Not the Best Teacher",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/experience-is-not-the-best-teacher/"
     }
   ],
   "grandes_projetos": [],
