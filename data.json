@@ -1,31 +1,31 @@
 {
-  "data_ref": "2026-01-31",
+  "data_ref": "2026-02-01",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Drawn by Fire: Tough Tackle",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/fire-leadership/drawn-by-fire-tough-tackle/"
+    },
+    {
+      "titulo": "At Least Two Reported Dead in IL House Explosion",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/at-least-two-reported-dead-in-il-house-explosion/"
+    },
+    {
+      "titulo": "Eastern KY School Destroyed in ‘Devastating’ Fire, Officials Say",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/eastern-ky-school-destroyed-in-devastating-fire-officials-say/"
+    },
+    {
+      "titulo": "A Closeup Look at Large-Scale Fires",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/a-closeup-look-at-large-scale-fires/"
+    },
     {
       "titulo": "Triaging a Lost Bail Anchor",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/triaging-a-lost-bail-anchor/"
-    },
-    {
-      "titulo": "One Dead as Early-Morning Fire Strikes Brooklyn (NY) Apartment Building",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/one-dead-as-early-morning-fire-strikes-brooklyn-ny-apartment-building/"
-    },
-    {
-      "titulo": "Fire Chiefs Fault Local Leadership as US Senate Probes Palisades (CA) Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/wildland-firefighting/fire-chiefs-fault-local-leadership-as-us-senate-probes-palisades-ca-fire/"
-    },
-    {
-      "titulo": "MA Firefighters Battle Two-Alarm Fire Amid Freezing Conditions",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/ma-firefighters-battle-two-alarm-fire-amid-freezing-conditions/"
-    },
-    {
-      "titulo": "St. Louis Firefighters Rescue Dog From Icy Water; Video Goes Viral",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/technical-rescue/water-rescue/st-louis-firefighters-rescue-dog-from-icy-water-video-goes-viral/"
     }
   ],
   "grandes_projetos": [],
