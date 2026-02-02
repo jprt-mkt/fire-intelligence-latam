@@ -1,7 +1,17 @@
 {
-  "data_ref": "2026-02-01",
+  "data_ref": "2026-02-02",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Three Horses and Other Animals Die in Barn Fire at a CT Farm",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/three-horses-and-other-animals-die-in-barn-fire-at-a-ct-farm/"
+    },
+    {
+      "titulo": "Three Firefighters, Two Civilians Taken to Hospitals After Pair of Devastating Fires in NY",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/three-firefighters-two-civilians-taken-to-hospitals-after-pair-of-devastating-fires-in-ny/"
+    },
     {
       "titulo": "Drawn by Fire: Tough Tackle",
       "pais": "Resto da América Latina",
@@ -16,16 +26,6 @@
       "titulo": "Eastern KY School Destroyed in ‘Devastating’ Fire, Officials Say",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/eastern-ky-school-destroyed-in-devastating-fire-officials-say/"
-    },
-    {
-      "titulo": "A Closeup Look at Large-Scale Fires",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/a-closeup-look-at-large-scale-fires/"
-    },
-    {
-      "titulo": "Triaging a Lost Bail Anchor",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/triaging-a-lost-bail-anchor/"
     }
   ],
   "grandes_projetos": [],
