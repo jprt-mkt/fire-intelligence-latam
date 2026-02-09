@@ -1,7 +1,22 @@
 {
-  "data_ref": "2026-02-08",
+  "data_ref": "2026-02-09",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Friday Night Fire Damages OH Home Under Renovation",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/friday-night-fire-damages-oh-home-under-renovation/"
+    },
+    {
+      "titulo": "One Dead in TX House Fire Friday Night, Officials Say",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/one-dead-intx-house-fire-friday-night-officials-say/"
+    },
+    {
+      "titulo": "The Operational Reality of Electric Fire Pumpers",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-apparatus/the-operational-reality-of-electric-fire-pumpers/"
+    },
     {
       "titulo": "Video Shows CT Firefighters Battle Fire That Displaced Four Residents",
       "pais": "Resto da América Latina",
@@ -11,21 +26,6 @@
       "titulo": "Three Fatalities, Three Injuries in OH Fire",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/three-fatalities-three-injuries-in-oh-fire/"
-    },
-    {
-      "titulo": "The Training Officer: Apparatus Positioning and Traffic Insights",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/fire-apparatus/the-training-officer-apparatus-positioning-and-traffic-insights/"
-    },
-    {
-      "titulo": "Rescue Under Fire and Ice: NJ Firefighters Save Bedridden Resident from Residential Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighter-training/search-operations/rescue-under-fire-and-ice-maplewood-nj-fire/"
-    },
-    {
-      "titulo": "The Single Source for Fire Service Training Guidance: The New NFPA 1400",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighter-training/the-single-source-for-fire-service-training-guidance-the-new-nfpa-1400/"
     }
   ],
   "grandes_projetos": [],
