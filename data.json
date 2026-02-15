@@ -1,31 +1,31 @@
 {
-  "data_ref": "2026-02-14",
+  "data_ref": "2026-02-15",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Not So Fast, My Friends!",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-apparatus/editors-opinion-not-so-fast-my-friends/"
+    },
+    {
+      "titulo": "Arson Probe Underway After Fire at MO Warehouse Once Tied to ICE Detention Center",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/arson-probe-underway-after-fire-at-mo-warehouse-once-tied-to-ice-detention-center/"
+    },
+    {
+      "titulo": "Woman, Up to 40 Cats Die in Devastating PA Hoarding House Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/woman-up-to-40-cats-die-in-devastating-pa-hoarding-house-fire/"
+    },
     {
       "titulo": "Surfers Rescue Six After Boat Capsizes off CA Coast",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/technical-rescue/water-rescue/surfers-rescue-six-after-boat-capsizes-off-ca-coast/"
     },
     {
-      "titulo": "L.A. Mayor Directed Palisades Fire Damage Control, Email Shows",
+      "titulo": "Fighting Complacency and Building Firehouse Culture",
       "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/wildland-firefighting/l-a-mayor-directed-palisades-fire-damage-control-email-shows/"
-    },
-    {
-      "titulo": "Illegal Subdivision May Have Played Role in NYC Fire That Killed Mom and Baby",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/fire-safety/illegal-subdivision-may-have-played-role-in-nyc-fire-that-killed-mom-and-baby/"
-    },
-    {
-      "titulo": "KY Firefighters Rescue Man Stuck on Riverfront Water Feature",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/technical-rescue/rope-rescue/ky-firefighters-rescue-man-stuck-on-riverfront-water-feature/"
-    },
-    {
-      "titulo": "Push to Ease MA Building Code for Affordable Housing Raises Fire Safety Worries",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/fire-safety/building-construction/push-to-ease-ma-building-code-for-affordable-housing-raises-fire-safety-worries/"
+      "link": "https://www.fireengineering.com/firefighting/fire-leadership/fighting-complacency-and-building-firehouse-culture/"
     }
   ],
   "grandes_projetos": [],
