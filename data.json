@@ -1,7 +1,22 @@
 {
-  "data_ref": "2026-02-15",
+  "data_ref": "2026-02-16",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Beyond Cold: Winter Weather Firefighting",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/beyond-cold-winter-weather-firefighting/"
+    },
+    {
+      "titulo": "No Injuries Reported After Historic MI Home Erupts in Flames",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/no-injuries-reported-after-historic-mi-home-erupts-in-flames/"
+    },
+    {
+      "titulo": "Three Dead in PA House Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/three-dead-in-pa-house-fire/"
+    },
     {
       "titulo": "Not So Fast, My Friends!",
       "pais": "Resto da América Latina",
@@ -11,21 +26,6 @@
       "titulo": "Arson Probe Underway After Fire at MO Warehouse Once Tied to ICE Detention Center",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/arson-probe-underway-after-fire-at-mo-warehouse-once-tied-to-ice-detention-center/"
-    },
-    {
-      "titulo": "Woman, Up to 40 Cats Die in Devastating PA Hoarding House Fire",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/woman-up-to-40-cats-die-in-devastating-pa-hoarding-house-fire/"
-    },
-    {
-      "titulo": "Surfers Rescue Six After Boat Capsizes off CA Coast",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/technical-rescue/water-rescue/surfers-rescue-six-after-boat-capsizes-off-ca-coast/"
-    },
-    {
-      "titulo": "Fighting Complacency and Building Firehouse Culture",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/fire-leadership/fighting-complacency-and-building-firehouse-culture/"
     }
   ],
   "grandes_projetos": [],
