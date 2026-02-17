@@ -1,7 +1,17 @@
 {
-  "data_ref": "2026-02-16",
+  "data_ref": "2026-02-17",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "House Fire Causes Brush Fire Along I-70 in CO",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/house-fire-causes-brush-fire-along-i-70-in-co/"
+    },
+    {
+      "titulo": "One Person Dead After PA House Fire; Fire Marshal Investigating",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/one-person-dead-after-pa-house-fire-fire-marshal-investigating/"
+    },
     {
       "titulo": "Beyond Cold: Winter Weather Firefighting",
       "pais": "Resto da América Latina",
@@ -16,16 +26,6 @@
       "titulo": "Three Dead in PA House Fire",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/three-dead-in-pa-house-fire/"
-    },
-    {
-      "titulo": "Not So Fast, My Friends!",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/fire-apparatus/editors-opinion-not-so-fast-my-friends/"
-    },
-    {
-      "titulo": "Arson Probe Underway After Fire at MO Warehouse Once Tied to ICE Detention Center",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/arson-probe-underway-after-fire-at-mo-warehouse-once-tied-to-ice-detention-center/"
     }
   ],
   "grandes_projetos": [],
