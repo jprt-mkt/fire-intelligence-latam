@@ -1,7 +1,22 @@
 {
-  "data_ref": "2026-02-21",
+  "data_ref": "2026-02-22",
   "regulacao": [],
   "lancamentos_tecnologia": [
+    {
+      "titulo": "Report: Wichita Disregards Internal Report on Critical Gaps in Fire Stations, Staffing",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/fire-safety/report-wichita-disregards-internal-report-on-critical-gaps-in-fire-stations-staffing/"
+    },
+    {
+      "titulo": "Wildfire Tears Through Rural MO Lake Community, Displacing Dozens",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/wildfire-tears-through-rural-mo-lake-community-displacing-dozens/"
+    },
+    {
+      "titulo": "One Dead, Three Injured in VA House Fire",
+      "pais": "Resto da América Latina",
+      "link": "https://www.fireengineering.com/firefighting/one-dead-three-injured-in-va-house-fire/"
+    },
     {
       "titulo": "NY Fire Captain Arrested for Alleged Forged Checks",
       "pais": "Resto da América Latina",
@@ -11,21 +26,6 @@
       "titulo": "Crews Battle Stubborn Easton (PA) Fire; at Least One Injured",
       "pais": "Resto da América Latina",
       "link": "https://www.fireengineering.com/firefighting/crews-battle-stubborn-easton-pa-fire-at-least-one-injured/"
-    },
-    {
-      "titulo": "What You Need to Know About the Pressurized Water Can",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/what-you-need-to-know-about-the-pressurized-water-can/"
-    },
-    {
-      "titulo": "ID Firefighter Injured in July Shooting Retires",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/id-firefighter-injured-in-july-shooting-retires/"
-    },
-    {
-      "titulo": "Adopt an Ownership Mentality",
-      "pais": "Resto da América Latina",
-      "link": "https://www.fireengineering.com/firefighting/adopt-an-ownership-mentality/"
     }
   ],
   "grandes_projetos": [],
